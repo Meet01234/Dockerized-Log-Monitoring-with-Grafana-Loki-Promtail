@@ -1,6 +1,8 @@
 
 # 📈 Real-Time Log Monitoring with Grafana, Loki, Promtail, and Docker on Ubuntu
 
+![Screenshot](Real-Time.png)
+
 This guide will help you set up a real-time log monitoring stack using Grafana, Loki, and Promtail, all running in Docker containers on Ubuntu.
 
 ---
@@ -178,6 +180,6 @@ docker ps
 ---
 ## 🎉 Final Output
 
-![grafanalog](All Grafana.png)
+![Output Screenshot](All Grafana.png)
 
 ---
