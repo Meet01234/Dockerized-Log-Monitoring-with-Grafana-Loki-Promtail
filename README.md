@@ -180,6 +180,6 @@ docker ps
 ---
 ## 🎉 Final Output
 
-![Output Screenshot](All Grafana.png)
+![Output](Mix.png)
 
 ---
