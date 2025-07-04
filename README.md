@@ -82,8 +82,9 @@ docker run -d --name loki \
 ```
 
 **Verify:**
-- http://<YOUR_PUBLIC_IP>:3100/ready
-- http://<YOUR_PUBLIC_IP>:3100/metrics
+
+- [http://<YOUR_PUBLIC_IP>:3100/ready](http://<YOUR_PUBLIC_IP>:3100/ready)
+- [http://<YOUR_PUBLIC_IP>:3100/metrics](http://<YOUR_PUBLIC_IP>:3100/metrics)
 
 ---
 
@@ -171,3 +172,12 @@ docker ps
 ## 🎉 Output
 
 ![grafanalog](grafana_dashboard.png)
+
+---
+
+---
+## 🎉 Final Output
+
+![grafanalog](All Grafana.png)
+
+---
